@@ -8,4 +8,5 @@ Problem description
 
 Imagine you are working in the Data Management department of Analytics company. Explore the database via python neo4j connector and/or the graphical tool in the NEO4J webpage. Answer the questions while adjusting the database to meet the needs of your colleagues. Please record and keep track of your database changes, and submit the file with all cells run and with the output shown.
 
-![neo4j_beer_database_flowchart](https://github.com/user-attachments/assets/6b28f083-7391-4a24-ab27-84595dd627a0)
+
+<img width="1021" alt="Screenshot 2025-03-17 at 1 39 05 PM" src="https://github.com/user-attachments/assets/c497016c-7996-4c6b-8491-fe246f1eedba" />
